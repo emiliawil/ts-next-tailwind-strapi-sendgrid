@@ -44,6 +44,7 @@ Update your styles/globals.css to import Tailwind CSS:
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+```
 
 Include the CSS file in your _app.tsx:
 
